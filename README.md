@@ -2,11 +2,11 @@
 
 Static landing page. Styled with Tailwind CSS. Reference: [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw).
 
-Live site: TODO
+Live site: [loopstudios-ten-roan.vercel.app](https://loopstudios-ten-roan.vercel.app/)
 
 ## Preview
 
-TODO
+![Loopstudios preview](./loopstudios.png)
 
 ## Usage
 
